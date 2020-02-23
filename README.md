@@ -17,3 +17,7 @@ CNN to get denoised data from noisy data.
 ## Output:
 ![Output](https://github.com/Batserine/CNN_Autoencoder/blob/master/Screenshot%20from%202020-02-22%2015-52-33.png)
 
+## References:
+[MNIST Dataset](http://yann.lecun.com/exdb/mnist/)<br/>
+[Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)<br/>
+[Denoising Autoencoder](http://dkopczyk.quantee.co.uk/dae-part1/)<br/>
