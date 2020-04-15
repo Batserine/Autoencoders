@@ -13,7 +13,7 @@ CNN to get denoised data from noisy data.
 ## Model Architecture:
 ![Model Architecture](https://github.com/Batserine/CNN_Autoencoder/blob/master/Screenshot%20from%202020-02-22%2015-52-04.png)
 ## Loss Curve:
-![Loss Curve](https://github.com/Batserine/CNN_Autoencoder/blob/master/Screenshot%20from%202020-02-22%2015-52-04.png)
+![Loss Curve](https://github.com/Batserine/CNN_Autoencoder/blob/master/Screenshot%20from%202020-02-22%2015-52-23.png)
 ## Output:
 ![Output](https://github.com/Batserine/CNN_Autoencoder/blob/master/Screenshot%20from%202020-02-22%2015-52-33.png)
 
